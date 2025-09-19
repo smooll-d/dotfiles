@@ -9,3 +9,4 @@
 - [melancholic_astronaut.png](melancholic_astronaut.png) - https://wall.alphacoders.com/big.php?i=1348197
 - [otherworldly_sci-fi_landscape.png](otherworldly_sci-fi_landscape.png) - https://wall.alphacoders.com/big.php?i=1345265
 - [rad_samurai.jpg](rad_samurai.jpg) - https://raw.githubusercontent.com/AlexandrosLiaskos/Awesome_Wallpapers/main/images/rad_samurai.jpg
+- [the_day_the_earth_smiled_-_pia17172](the_day_the_earth_smiled_-_pia17172.jpg) - https://en.wikipedia.org/wiki/File:The_Day_the_Earth_Smiled_-_PIA17172.jpg#/media/File:The_Day_the_Earth_Smiled_-_PIA17172.jpg
